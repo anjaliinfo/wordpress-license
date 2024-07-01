@@ -166,5 +166,14 @@ Ensure license keys and update requests are handled securely. Use HTTPS and vali
 
 # Error Handling: 
 
-Add robust error handling and logging to handle various scenarios (e.g., network errors, invalid responses).
+Add robust error handling and logging to handle various scenarios (e.g., network errors, invalid responses).  
+
+# Wordpress plugins available to manage License Keys and Auto Updates -
+
+1. Elite Licenser- Software License Manager for WordPress -  https://hasthemes.com/elite-licenser/?wp-learning-lab
+2. Digital License Manager  -  https://wordpress.org/plugins/digital-license-manager/
+3. https://codecanyon.net/category/wordpress?term=license%20manager
+
+
+
 
