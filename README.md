@@ -114,7 +114,7 @@ function my_plugin_check_for_updates($transient) {
     }
 
     return $transient;
-}
+  }
 
 // Function to handle plugin updates
 add_filter('plugins_api', 'my_plugin_plugin_info', 20, 3);
