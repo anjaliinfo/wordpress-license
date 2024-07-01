@@ -5,7 +5,7 @@
 
 
 
- Setting Up Your Plugin Structure - 
+# Setting Up Your Plugin Structure - 
 
 Create a plugin folder (my-plugin) within wp-content/plugins/, and inside it, create the main plugin file (my-plugin.php). 
 
